@@ -1,0 +1,92 @@
+[
+  {
+    "id": "lead-001",
+    "name": "Ana Silva",
+    "company": "TechCorp Solutions",
+    "email": "ana.silva@techcorp.com",
+    "source": "Website",
+    "score": 95,
+    "status": "new"
+  },
+  {
+    "id": "lead-002",
+    "name": "Carlos Mendes",
+    "company": "Digital Innovations",
+    "email": "carlos@digitalinnovations.com",
+    "source": "LinkedIn",
+    "score": 87,
+    "status": "contacted"
+  },
+  {
+    "id": "lead-003",
+    "name": "Mariana Costa",
+    "company": "StartupXYZ",
+    "email": "mariana@startupxyz.com",
+    "source": "Referral",
+    "score": 92,
+    "status": "qualified"
+  },
+  {
+    "id": "lead-004",
+    "name": "Roberto Santos",
+    "company": "Enterprise Corp",
+    "email": "roberto.santos@enterprise.com",
+    "source": "Cold Email",
+    "score": 78,
+    "status": "new"
+  },
+  {
+    "id": "lead-005",
+    "name": "Fernanda Lima",
+    "company": "Growth Partners",
+    "email": "fernanda@growthpartners.com",
+    "source": "Event",
+    "score": 89,
+    "status": "contacted"
+  },
+  {
+    "id": "lead-006",
+    "name": "João Oliveira",
+    "company": "Tech Startup",
+    "email": "joao@techstartup.com",
+    "source": "Website",
+    "score": 84,
+    "status": "qualified"
+  },
+  {
+    "id": "lead-007",
+    "name": "Patricia Rocha",
+    "company": "Innovation Labs",
+    "email": "patricia@innovationlabs.com",
+    "source": "Social Media",
+    "score": 91,
+    "status": "new"
+  },
+  {
+    "id": "lead-008",
+    "name": "Lucas Ferreira",
+    "company": "Digital Agency",
+    "email": "lucas@digitalagency.com",
+    "source": "Referral",
+    "score": 76,
+    "status": "contacted"
+  },
+  {
+    "id": "lead-009",
+    "name": "Camila Souza",
+    "company": "Future Tech",
+    "email": "camila@futuretech.com",
+    "source": "LinkedIn",
+    "score": 88,
+    "status": "qualified"
+  },
+  {
+    "id": "lead-010",
+    "name": "Rafael Alves",
+    "company": "Smart Solutions",
+    "email": "rafael@smartsolutions.com",
+    "source": "Website",
+    "score": 93,
+    "status": "new"
+  }
+]

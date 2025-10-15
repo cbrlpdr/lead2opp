@@ -1,0 +1,17 @@
+# EditorConfig is awesome: https://EditorConfig.org
+
+# top-most EditorConfig file
+root = true
+
+[*]
+indent_style = space
+indent_size = 4
+end_of_line = crlf
+charset = utf-8
+trim_trailing_whitespace = true
+insert_final_newline = true
+
+[*.{js,jsx,ts,tsx,json}]
+quote_type = single      # Not standard EditorConfig, but alguns editores usam
+semicolon = true         # Custom, depende do editor ou plugin ESLint/Prettier
+max_line_length = 120
