@@ -12,29 +12,23 @@ This is a React project for managing leads and converting them into opportunitie
 - Toast notifications for actions
 - Responsive UI with cards and sheets
 
-## Installation
+**Clone the repository:**
+    ```bash
+    git clone https://github.com/cbrlpdr/lead2opp.git
+    cd lead2opp
+    ```
 
-1. Unzip the project:
+2. **Install dependencies:**
+    ```bash
+    npm install
+    ```
 
-2. Navigate to the project folder:
+3. **Start the development server:**
+    ```bash
+    npm start
+    ```
+    The app will be available at [http://localhost:5173](http://localhost:5173).
 
-```bash
-cd <project-folder>
-```
-
-3. Install dependencies:
-
-```bash
-npm install
-```
-
-4. Run the development server:
-
-```bash
-npm run dev
-```
-
-The app should now be running on http://localhost:5173/
 
 ## Screenshots
 <img src="./docs/screenshots/ss1.png" width=600>
